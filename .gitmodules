@@ -1,0 +1,15 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/3mty-team/descolar-back
+[submodule "front"]
+	path = front
+	url = https://github.com/3mty-team/descolar-front
+[submodule "moderation"]
+	path = moderation
+	url = https://github.com/3mty-team/descolar-mod
+[submodule "websocket"]
+	path = websocket
+	url = https://github.com/3mty-team/descolar-websocket
+[submodule "devops"]
+	path = devops
+	url = https://github.com/3mty-team/descolar-sys
